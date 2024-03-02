@@ -1308,3 +1308,402 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.03.02-02.44.06:846][862]AssetCheck: New page: Asset Save: LevelInstance_UAID_1068383E5D6C72DE01_1231542659
 [2024.03.02-02.44.06:846][862]LogContentValidation: Display: Validating /Script/Engine.LevelInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LevelInstance_UAID_1068383E5D6C72DE01_1231542659
 [2024.03.02-02.44.06:854][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.03.02-02.46.12:515][257]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.46.49:083][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.03.02-02.46.49:086][330]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.016
+[2024.03.02-02.46.49:087][330]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D_Menu/Widget/3D_Menu_Cam] ([1] browsable assets)...
+[2024.03.02-02.46.49:087][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D_Menu/Widget/3D_Menu_Cam]
+[2024.03.02-02.46.49:090][330]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D_Menu/Widget/3D_Menu_Cam_Auto1
+[2024.03.02-02.46.49:090][330]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/3D_Menu_Cam_Auto156DBE1F54AF832925FBABA8E5DDFD069.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/Autosaves/Game/3D_Menu/Widget/3D_Menu_Cam_Auto1.uasset'
+[2024.03.02-02.46.49:092][330]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.03.02-02.47.17:853][417]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.47.39:853][483]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.50.35:913][ 11]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.50.45:913][ 41]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.51.42:595][211]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.51.48:926][230]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.52.02:598][271]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.52.17:268][315]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.52.36:269][372]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.54.17:960][677]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.54.44:633][757]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.55.13:638][844]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.55.19:973][863]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.55.32:638][901]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.55.51:645][958]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.55.57:979][977]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.56.26:988][ 64]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.57.04:664][177]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.58.19:348][401]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.58.57:691][516]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-02.59.47:698][666]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.00.29:050][790]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.00.44:715][837]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.01.44:732][ 17]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.02.00:402][ 64]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.02.07:737][ 86]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.02.20:743][125]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.02.35:408][169]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.04.13:764][464]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.06.18:481][838]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.07.02:486][970]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.09.07:516][345]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.09.23:848][394]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.09.31:183][416]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.10.13:191][542]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.10.49:208][650]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.11.32:215][779]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.12.14:219][905]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.13.30:904][135]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.14.03:580][233]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.14.09:910][252]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.14.39:923][342]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.15.11:932][438]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.16.13:284][622]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.16.36:288][691]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.16.57:292][754]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.17.21:967][828]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.18.18:315][997]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.19.08:992][149]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.20.16:000][350]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.20.28:674][388]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.21.20:360][543]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.22.07:029][683]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.22.33:701][763]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.23.28:710][928]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.26.09:422][410]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.26.16:755][432]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.27.00:437][563]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.27.16:768][612]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.27.19:437][620]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.27.29:437][650]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.27.56:775][732]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.28.01:443][746]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.28.34:448][845]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.29.46:468][ 61]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.29.52:799][ 80]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.30.43:147][231]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.31.32:489][379]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.32.08:162][486]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.32.28:498][547]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.33.41:515][766]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.34.44:200][954]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.36.13:885][223]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.03.02-03.38.31:743][632]Cmd: TRANSACTION UNDO
+[2024.03.02-03.38.31:743][632]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.02-03.38.32:178][636]Cmd: TRANSACTION UNDO
+[2024.03.02-03.38.32:178][636]LogEditorTransaction: Undo Clicking on Actors
+[2024.03.02-03.38.32:967][660]Cmd: TRANSACTION UNDO
+[2024.03.02-03.38.32:967][660]LogEditorTransaction: Undo Create Actors
+[2024.03.02-03.38.33:085][660]LogWorld: UWorld::CleanupWorld for FirstFloor, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-03.38.33:085][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-03.38.33:099][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.03.02-03.38.33:106][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.03.02-03.38.33:106][660]MapCheck: New page: Map Check
+[2024.03.02-03.38.33:106][660]LightingResults: New page: Lighting Build
+[2024.03.02-03.38.33:111][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.03.02-03.38.33:112][660]LogLevelInstance: Unloaded 1 levels in 0,042 seconds
+[2024.03.02-03.38.46:608][ 56]LogDerivedDataCache: C:/Users/paris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.267 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7557 files in 9350 folders with total size 363 MiB.
+[2024.03.02-03.38.47:584][ 89]LogActorFactory: Actor Factory attempting to spawn World /Game/3D_Menu/Widget/Maps/FirstFloor.FirstFloor
+[2024.03.02-03.38.47:584][ 89]LogActorFactory: Actor Factory attempting to spawn World /Game/3D_Menu/Widget/Maps/FirstFloor.FirstFloor
+[2024.03.02-03.38.47:984][110]LogActorFactory: Actor Factory attempting to spawn World /Game/3D_Menu/Widget/Maps/FirstFloor.FirstFloor
+[2024.03.02-03.38.47:984][110]LogActorFactory: Actor Factory attempting to spawn World /Game/3D_Menu/Widget/Maps/FirstFloor.FirstFloor
+[2024.03.02-03.38.47:991][110]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/3D_Menu/Widget/Maps/FirstFloor_LevelInstance_fa8706eb209d8d9d_0) is flushing async loading
+[2024.03.02-03.38.47:991][110]LogStreaming: Display: FlushAsyncLoading(): 1 QueuedPackages, 0 AsyncPackages
+[2024.03.02-03.38.48:074][110]LogLevelInstance: Loaded 1 levels in 0,083 seconds
+[2024.03.02-03.38.51:429][146]LogEditorViewport: Clicking Background
+[2024.03.02-03.39.39:600][644]LogShaderCompilers: Display: ================================================
+[2024.03.02-03.39.39:600][644]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.02-03.39.39:600][644]LogShaderCompilers: Display: Total job queries 368, among them cache hits 145 (39.40%)
+[2024.03.02-03.39.39:600][644]LogShaderCompilers: Display: Tracking 218 distinct input hashes that result in 130 distinct outputs (59.63%)
+[2024.03.02-03.39.39:600][644]LogShaderCompilers: Display: RAM used: 560,85 KiB of 819,20 MiB budget. Usage: 0.07%
+[2024.03.02-03.39.39:600][644]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.02-03.39.39:600][644]LogShaderCompilers: Display: Shaders Compiled: 208
+[2024.03.02-03.39.39:600][644]LogShaderCompilers: Display: Jobs assigned 213, completed 208 (97.65%)
+[2024.03.02-03.39.39:600][644]LogShaderCompilers: Display: Average time worker was idle: 103.36 s
+[2024.03.02-03.39.39:600][644]LogShaderCompilers: Display: Time job spent in pending queue: average 25.22 s, longest 52.87 s
+[2024.03.02-03.39.39:600][644]LogShaderCompilers: Display: Job execution time: average 2.42 s, max 19.62 s
+[2024.03.02-03.39.39:600][644]LogShaderCompilers: Display: Job life time (pending + execution): average 28.24 s, max 66.08
+[2024.03.02-03.39.39:600][644]LogShaderCompilers: Display: Shader code size: average 6,352 KiB, min 432 B, max 56,168 KiB
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 72.45 s
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display: Jobs were issued in 213 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display: Average processing rate: 2.87 jobs/sec
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display: Total thread time: 425,305 s
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display: Total thread preprocess time: 34,219 s
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display: Percentage time preprocessing: 8.05%
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display: Effective parallelization: 5.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   22 times, average 4.74 sec, max 19.36 sec, min 1.51 sec)
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   23 times, average 4.12 sec, max 17.94 sec, min 1.55 sec)
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 2.43 sec, max 4.67 sec, min 0.94 sec)
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   23 times, average 1.95 sec, max 5.36 sec, min 1.37 sec)
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled   22 times, average 1.92 sec, max 5.01 sec, min 1.41 sec)
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 24.50% of total time (compiled   22 times, average 4.74 sec, max 19.36 sec, min 1.51 sec)
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 22.26% of total time (compiled   23 times, average 4.12 sec, max 17.94 sec, min 1.55 sec)
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 10.54% of total time (compiled   23 times, average 1.95 sec, max 5.36 sec, min 1.37 sec)
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 9.94% of total time (compiled   22 times, average 1.92 sec, max 5.01 sec, min 1.41 sec)
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.45% of total time (compiled   21 times, average 1.51 sec, max 1.94 sec, min 1.25 sec)
+[2024.03.02-03.39.39:601][644]LogShaderCompilers: Display: ================================================
+[2024.03.02-03.40.18:199][ 12]LogSkeletalMesh: Building Skeletal Mesh Sit_To_Stand...
+[2024.03.02-03.40.18:325][ 16]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/3D_Menu/Widget/Shared/player_anim/Sit_To_Stand.Sit_To_Stand
+[2024.03.02-03.40.18:325][ 16]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/3D_Menu/Widget/Shared/player_anim/Sit_To_Stand.Sit_To_Stand
+[2024.03.02-03.40.18:326][ 16]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/3D_Menu/Widget/Shared/player_anim/Sit_To_Stand.Sit_To_Stand as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2024.03.02-03.40.18:344][ 16]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Sit_To_Stand) ...
+[2024.03.02-03.40.18:730][ 16]LogSkeletalMesh: Built Skeletal Mesh [0.53s] /Game/3D_Menu/Widget/Shared/player_anim/Sit_To_Stand.Sit_To_Stand
+[2024.03.02-03.40.18:732][ 16]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/3D_Menu/Widget/Shared/player_anim/Sit_To_Stand.Sit_To_Stand as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_0
+[2024.03.02-03.40.18:740][ 16]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.02-03.40.22:067][ 86]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/3D_Menu/Widget/Shared/player_anim/Sit_To_Stand.Sit_To_Stand
+[2024.03.02-03.40.22:067][ 86]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/3D_Menu/Widget/Shared/player_anim/Sit_To_Stand.Sit_To_Stand
+[2024.03.02-03.40.22:070][ 86]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/3D_Menu/Widget/Shared/player_anim/Sit_To_Stand.Sit_To_Stand as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_1068383E5D6C75DE01_1428496189
+[2024.03.02-03.40.22:072][ 86]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/3D_Menu/Widget/Shared/player_anim/Sit_To_Stand.Sit_To_Stand as actor: SkeletalMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.SkeletalMeshActor_UAID_1068383E5D6C75DE01_1428496189
+[2024.03.02-03.40.34:896][224]Cmd: DELETE
+[2024.03.02-03.40.34:896][224]Cmd: ACTOR DELETE
+[2024.03.02-03.40.34:902][224]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.03.02-03.40.34:995][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.02-03.40.34:996][224]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2024.03.02-03.40.44:106][303]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque (Galaxy Buds Live (C127)), InstanceID=1
+[2024.03.02-03.40.44:359][303]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9756
+[2024.03.02-03.40.45:028][305]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{588c64de-2a1c-4ee6-ab6a-f8afd5131a37}, Name=Casque (Galaxy Buds Live (C127))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=495.15
+[2024.03.02-03.40.45:029][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.02-03.40.45:032][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.02-03.41.05:428][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.03.02-03.41.05:432][366]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/OT/3HD1E9G1VHD3515WFVZCQF_Auto2
+[2024.03.02-03.41.05:432][366]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/3HD1E9G1VHD3515WFVZCQF_Auto2A1DD7B7A429873E2267F3898FCE58116.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/OT/3HD1E9G1VHD3515WFVZCQF_Auto2.uasset'
+[2024.03.02-03.41.05:435][366]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
+[2024.03.02-03.41.05:435][366]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2024.03.02-03.41.05:435][366]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3D_Menu/Widget/3D_Menu_Cam] ([1] browsable assets)...
+[2024.03.02-03.41.05:436][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D_Menu/Widget/3D_Menu_Cam]
+[2024.03.02-03.41.05:438][366]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D_Menu/Widget/3D_Menu_Cam_Auto2
+[2024.03.02-03.41.05:438][366]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/3D_Menu_Cam_Auto2C1684EDE4A769C3C400B9B9E657474E5.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/Autosaves/Game/3D_Menu/Widget/3D_Menu_Cam_Auto2.uasset'
+[2024.03.02-03.41.05:441][366]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.03.02-03.41.36:722][814]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.03.02-03.41.36:758][814]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.03.02-03.41.36:768][814]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.03.02-03.41.36:789][815]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.03.02-03.42.00:250][928]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.03.02-03.42.00:272][928]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.03.02-03.42.05:037][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.02-03.42.07:075][ 59]LogSlate: Window 'Delete Assets' being destroyed
+[2024.03.02-03.42.07:091][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.03.02-03.42.07:097][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.03.02-03.42.07:103][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.03.02-03.42.27:241][360]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.03.02-03.42.27:266][360]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.03.02-03.42.27:273][360]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.03.02-03.42.27:299][361]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.03.02-03.42.51:855][466]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2024.03.02-03.42.51:873][466]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.03.02-03.43.13:981][838]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_3D_Menu_Widget
+[2024.03.02-03.43.14:051][838]LogMetaData: Removing '/Game/3D_Menu/Widget/BP_3D_Menu_Widget.SKEL_BP_3D_Menu_Widget_C' ref from Metadata '/Game/3D_Menu/Widget/NewWidgetBlueprint.PackageMetaData'
+[2024.03.02-03.43.14:052][838]LogMetaData: Removing '/Game/3D_Menu/Widget/BP_3D_Menu_Widget.BP_3D_Menu_Widget_C' ref from Metadata '/Game/3D_Menu/Widget/NewWidgetBlueprint.PackageMetaData'
+[2024.03.02-03.43.14:052][838]LogMetaData: Removing '/Game/3D_Menu/Widget/BP_3D_Menu_Widget.BP_3D_Menu_Widget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/3D_Menu/Widget/NewWidgetBlueprint.PackageMetaData'
+[2024.03.02-03.43.14:052][838]LogMetaData: Removing '/Game/3D_Menu/Widget/BP_3D_Menu_Widget.BP_3D_Menu_Widget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/3D_Menu/Widget/NewWidgetBlueprint.PackageMetaData'
+[2024.03.02-03.43.14:052][838]LogMetaData: Removing '/Game/3D_Menu/Widget/BP_3D_Menu_Widget.BP_3D_Menu_Widget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/3D_Menu/Widget/NewWidgetBlueprint.PackageMetaData'
+[2024.03.02-03.43.14:055][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-03.43.14:143][838]LogSavePackage: Moving output files for package: /Game/3D_Menu/Widget/BP_3D_Menu_Widget
+[2024.03.02-03.43.14:143][838]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/BP_3D_Menu_Widget41DE9E794B563FFF88D1E5922B66300E.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Content/3D_Menu/Widget/BP_3D_Menu_Widget.uasset'
+[2024.03.02-03.43.14:168][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 211 ms)
+[2024.03.02-03.43.14:184][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.02-03.43.14:190][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.03.02-03.43.14:198][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.02-03.43.14:201][838]AssetCheck: New page: Asset Save: BP_3D_Menu_Widget
+[2024.03.02-03.43.14:201][838]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3D_Menu/Widget/BP_3D_Menu_Widget.BP_3D_Menu_Widget
+[2024.03.02-03.43.34:992][950]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/3D_Menu/Widget/BP_3D_Menu_Widget.BP_3D_Menu_Widget
+[2024.03.02-03.43.35:000][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.02-03.43.35:000][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-03.43.35:005][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.02-03.43.35:005][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-03.43.35:011][950]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.03.02-03.43.35:020][950]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.03.02-03.43.36:240][950]LogSlate: Took 0.000798 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.02-03.43.36:259][950]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.03.02-03.43.36:265][950]LogSlate: Took 0.005520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.02-03.50.19:554][773]LogSlate: Window 'BP_3D_Menu_Widget' being destroyed
+[2024.03.02-03.50.19:569][773]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-03.50.19:569][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-03.50.19:577][773]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-03.50.19:578][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-03.50.30:175][ 58]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.03.02-03.50.30:186][ 58]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.03.02-03.50.30:192][ 58]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.03.02-03.50.30:209][ 59]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.03.02-03.50.41:674][248]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_MainMenu
+[2024.03.02-03.50.41:691][248]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.03.02-03.50.42:978][264]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/3D_Menu/Widget/BP_MainMenu.BP_MainMenu
+[2024.03.02-03.50.42:978][264]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.02-03.50.42:979][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-03.50.43:002][264]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.02-03.50.43:002][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-03.50.58:648][440]LogSlate: Window 'BP_MainMenu' being destroyed
+[2024.03.02-03.50.58:670][440]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-03.50.58:670][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-03.50.58:680][440]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-03.50.58:680][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-03.51.28:310][869]LogContentBrowser: Attempting asset rename: BP_MainMenu -> BP_MainMenu_Widget
+[2024.03.02-03.51.28:367][869]LogMetaData: Removing '/Game/3D_Menu/Widget/BP_MainMenu_Widget.SKEL_BP_MainMenu_Widget_C' ref from Metadata '/Game/3D_Menu/Widget/BP_MainMenu.PackageMetaData'
+[2024.03.02-03.51.28:367][869]LogMetaData: Removing '/Game/3D_Menu/Widget/BP_MainMenu_Widget.BP_MainMenu_Widget_C' ref from Metadata '/Game/3D_Menu/Widget/BP_MainMenu.PackageMetaData'
+[2024.03.02-03.51.28:367][869]LogMetaData: Removing '/Game/3D_Menu/Widget/BP_MainMenu_Widget.BP_MainMenu_Widget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/3D_Menu/Widget/BP_MainMenu.PackageMetaData'
+[2024.03.02-03.51.28:367][869]LogMetaData: Removing '/Game/3D_Menu/Widget/BP_MainMenu_Widget.BP_MainMenu_Widget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/3D_Menu/Widget/BP_MainMenu.PackageMetaData'
+[2024.03.02-03.51.28:367][869]LogMetaData: Removing '/Game/3D_Menu/Widget/BP_MainMenu_Widget.BP_MainMenu_Widget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/3D_Menu/Widget/BP_MainMenu.PackageMetaData'
+[2024.03.02-03.51.28:380][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-03.51.28:465][869]LogSavePackage: Moving output files for package: /Game/3D_Menu/Widget/BP_MainMenu_Widget
+[2024.03.02-03.51.28:466][869]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/BP_MainMenu_Widget3DEF307245089E7EBA0A37B07649448F.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Content/3D_Menu/Widget/BP_MainMenu_Widget.uasset'
+[2024.03.02-03.51.28:484][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 315 ms)
+[2024.03.02-03.51.28:518][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.03.02-03.51.28:533][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.02-03.51.28:546][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.03.02-03.51.28:547][869]AssetCheck: New page: Asset Save: BP_MainMenu_Widget
+[2024.03.02-03.51.28:547][869]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3D_Menu/Widget/BP_MainMenu_Widget.BP_MainMenu_Widget
+[2024.03.02-03.51.30:735][900]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/3D_Menu/Widget/BP_MainMenu_Widget.BP_MainMenu_Widget
+[2024.03.02-03.51.30:735][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.02-03.51.30:735][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-03.51.30:764][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.02-03.51.30:764][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-03.51.45:716][ 80]LogSlate: Window 'BP_MainMenu_Widget' being destroyed
+[2024.03.02-03.51.45:736][ 80]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-03.51.45:737][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-03.51.45:746][ 80]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-03.51.45:746][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-03.51.51:303][154]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/3D_Menu/Widget/BP_MainMenu_Widget.BP_MainMenu_Widget
+[2024.03.02-03.51.51:304][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.02-03.51.51:304][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-03.51.51:342][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.02-03.51.51:342][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-03.52.07:521][644]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/3D_Menu/Widget/BP_MainMenu_Widget.BP_MainMenu_Widget from UserWidget to BP_3D_Menu_Widget_C...
+[2024.03.02-03.52.07:537][644]BlueprintLog: New page: Compile BP_MainMenu_Widget
+[2024.03.02-03.52.07:559][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.03.02-03.53.08:624][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.03.02-03.53.08:625][652]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.020
+[2024.03.02-03.53.08:626][652]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/3D_Menu/Widget/BP_3D_Menu_Widget] ([2] browsable assets)...
+[2024.03.02-03.53.08:628][652]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/3D_Menu/Widget/BP_3D_Menu_Widget.BP_3D_Menu_Widget]
+[2024.03.02-03.53.08:629][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D_Menu/Widget/BP_3D_Menu_Widget]
+[2024.03.02-03.53.08:637][652]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D_Menu/Widget/BP_3D_Menu_Widget_Auto3
+[2024.03.02-03.53.08:637][652]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/BP_3D_Menu_Widget_Auto37BEDF85041D2ACF1558E56BEF8EF521B.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/Autosaves/Game/3D_Menu/Widget/BP_3D_Menu_Widget_Auto3.uasset'
+[2024.03.02-03.53.08:639][652]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/3D_Menu/Widget/BP_MainMenu_Widget] ([2] browsable assets)...
+[2024.03.02-03.53.08:641][652]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/3D_Menu/Widget/BP_MainMenu_Widget.BP_MainMenu_Widget]
+[2024.03.02-03.53.08:641][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D_Menu/Widget/BP_MainMenu_Widget]
+[2024.03.02-03.53.08:646][652]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D_Menu/Widget/BP_MainMenu_Widget_Auto3
+[2024.03.02-03.53.08:646][652]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/BP_MainMenu_Widget_Auto34BEF7FAD45B8E116F4173E951A58E2F7.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/Autosaves/Game/3D_Menu/Widget/BP_MainMenu_Widget_Auto3.uasset'
+[2024.03.02-03.53.08:647][652]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.03.02-03.55.14:120][251]LogSlate: Window 'BP_MainMenu_Widget' being destroyed
+[2024.03.02-03.55.14:141][251]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-03.55.14:141][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-03.55.14:149][251]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-03.55.14:149][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-03.55.22:081][436]LogContentBrowser: Deferred new asset file creation: BP_MainMenu_Widget1
+[2024.03.02-03.55.22:350][436]LogContentBrowser: Creating deferred item: BP_MainMenu_Widget1
+[2024.03.02-03.55.22:370][437]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MainMenu_Widget1).
+[2024.03.02-03.55.36:994][608]LogContentBrowser: Attempting asset rename: BP_MainMenu_Widget1 -> BP_Option_Widget1
+[2024.03.02-03.55.37:128][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.03.02-03.55.37:140][608]LogContentBrowser: End creating deferred item BP_MainMenu_Widget1
+[2024.03.02-03.55.37:148][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-03.55.37:230][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.03.02-03.55.37:248][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.03.02-03.55.37:264][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.03.02-03.55.37:268][608]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/OT/3HD1E9G1VHD3515WFVZCQF
+[2024.03.02-03.55.37:268][608]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/3HD1E9G1VHD3515WFVZCQF378D887546756C0B8958F9869FB8F107.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/OT/3HD1E9G1VHD3515WFVZCQF.uasset'
+[2024.03.02-03.55.37:290][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 458 ms)
+[2024.03.02-03.55.37:292][608]AssetCheck: New page: Asset Save: LevelInstance_UAID_1068383E5D6C75DE01_1334413188
+[2024.03.02-03.55.37:292][608]LogContentValidation: Display: Validating /Script/Engine.LevelInstance /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LevelInstance_UAID_1068383E5D6C75DE01_1334413188
+[2024.03.02-03.56.18:751][860]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.03.02-03.56.24:224][ 65]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.03.02-03.56.24:242][ 65]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.03.02-03.56.24:249][ 65]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.03.02-03.56.24:267][ 66]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.03.02-03.56.37:687][287]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_Button_Widget
+[2024.03.02-03.56.37:698][287]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.03.02-03.57.32:654][538]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/3D_Menu/Widget/BP_Button_Widget.BP_Button_Widget
+[2024.03.02-03.57.32:654][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.02-03.57.32:654][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-03.57.32:662][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.02-03.57.32:662][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-04.01.08:421][621]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Animations.Animations
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: ================================================
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Total job queries 380, among them cache hits 149 (39.21%)
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Tracking 224 distinct input hashes that result in 135 distinct outputs (60.27%)
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: RAM used: 573,60 KiB of 819,20 MiB budget. Usage: 0.07%
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Shaders Compiled: 214
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Jobs assigned 221, completed 214 (96.83%)
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Average time worker was idle: 180.91 s
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Time job spent in pending queue: average 24.31 s, longest 52.87 s
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Job execution time: average 2.39 s, max 19.62 s
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Job life time (pending + execution): average 27.49 s, max 66.08
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Shader code size: average 6,268 KiB, min 432 B, max 56,168 KiB
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 74.43 s
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Jobs were issued in 221 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Average processing rate: 2.88 jobs/sec
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Total thread time: 430,58 s
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Total thread preprocess time: 34,922 s
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Percentage time preprocessing: 8.11%
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Effective parallelization: 5.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   22 times, average 4.74 sec, max 19.36 sec, min 1.51 sec)
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   23 times, average 4.12 sec, max 17.94 sec, min 1.55 sec)
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 2.43 sec, max 4.67 sec, min 0.94 sec)
+[2024.03.02-04.01.09:704][629]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   23 times, average 1.95 sec, max 5.36 sec, min 1.37 sec)
+[2024.03.02-04.01.09:705][629]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled   22 times, average 1.92 sec, max 5.01 sec, min 1.41 sec)
+[2024.03.02-04.01.09:705][629]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.02-04.01.09:705][629]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 24.20% of total time (compiled   22 times, average 4.74 sec, max 19.36 sec, min 1.51 sec)
+[2024.03.02-04.01.09:705][629]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 21.99% of total time (compiled   23 times, average 4.12 sec, max 17.94 sec, min 1.55 sec)
+[2024.03.02-04.01.09:705][629]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 10.41% of total time (compiled   23 times, average 1.95 sec, max 5.36 sec, min 1.37 sec)
+[2024.03.02-04.01.09:705][629]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 9.81% of total time (compiled   22 times, average 1.92 sec, max 5.01 sec, min 1.41 sec)
+[2024.03.02-04.01.09:705][629]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.36% of total time (compiled   21 times, average 1.51 sec, max 1.94 sec, min 1.25 sec)
+[2024.03.02-04.01.09:705][629]LogShaderCompilers: Display: ================================================
+[2024.03.02-04.01.39:063][968]LogSlate: Took 0.004420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.03.02-04.03.17:255][822]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LevelInstance_UAID_1068383E5D6C72DE01_1231542659 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PE/PRUONU6J84M2NHAYS5N81C.PackageMetaData in its package
+[2024.03.02-04.03.17:262][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.03.02-04.03.17:266][822]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.030
+[2024.03.02-04.03.17:266][822]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/3D_Menu/Widget/BP_Option_Widget1] ([2] browsable assets)...
+[2024.03.02-04.03.17:269][822]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/3D_Menu/Widget/BP_Option_Widget1.BP_Option_Widget1]
+[2024.03.02-04.03.17:269][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D_Menu/Widget/BP_Option_Widget1]
+[2024.03.02-04.03.17:276][822]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D_Menu/Widget/BP_Option_Widget1_Auto4
+[2024.03.02-04.03.17:276][822]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/BP_Option_Widget1_Auto46B34D78D4B9119EF8EEA358EA19FFE24.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/Autosaves/Game/3D_Menu/Widget/BP_Option_Widget1_Auto4.uasset'
+[2024.03.02-04.03.17:278][822]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/3D_Menu/Widget/BP_Button_Widget] ([2] browsable assets)...
+[2024.03.02-04.03.17:280][822]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/3D_Menu/Widget/BP_Button_Widget.BP_Button_Widget]
+[2024.03.02-04.03.17:280][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D_Menu/Widget/BP_Button_Widget]
+[2024.03.02-04.03.17:286][822]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D_Menu/Widget/BP_Button_Widget_Auto4
+[2024.03.02-04.03.17:286][822]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/BP_Button_Widget_Auto4234A3066464BEC7E71434BA875CBADAB.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/Autosaves/Game/3D_Menu/Widget/BP_Button_Widget_Auto4.uasset'
+[2024.03.02-04.03.17:288][822]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.03.02-04.03.17:366][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.03.02-04.09.14:468][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-04.09.14:536][235]LogSavePackage: Moving output files for package: /Game/3D_Menu/Widget/BP_Button_Widget
+[2024.03.02-04.09.14:536][235]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/BP_Button_Widget7A0047D347ACB138C5B68A9344FB0C88.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Content/3D_Menu/Widget/BP_Button_Widget.uasset'
+[2024.03.02-04.09.14:552][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 542 ms)
+[2024.03.02-04.09.14:553][235]AssetCheck: New page: Asset Save: BP_Button_Widget
+[2024.03.02-04.09.14:554][235]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3D_Menu/Widget/BP_Button_Widget.BP_Button_Widget
+[2024.03.02-04.09.19:811][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-04.09.19:886][302]LogSavePackage: Moving output files for package: /Game/3D_Menu/Widget/BP_Button_Widget
+[2024.03.02-04.09.19:887][302]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/BP_Button_Widget33F0E2254A9695E43731028FCABA50B8.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Content/3D_Menu/Widget/BP_Button_Widget.uasset'
+[2024.03.02-04.09.19:900][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 632 ms)
+[2024.03.02-04.09.19:904][302]AssetCheck: New page: Asset Save: BP_Button_Widget
+[2024.03.02-04.09.19:904][302]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3D_Menu/Widget/BP_Button_Widget.BP_Button_Widget
+[2024.03.02-04.09.49:559][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-04.09.49:625][653]LogSavePackage: Moving output files for package: /Game/3D_Menu/Widget/BP_Button_Widget
+[2024.03.02-04.09.49:626][653]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/BP_Button_WidgetD770A717474BAC7D751C86AB584BBE5A.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Content/3D_Menu/Widget/BP_Button_Widget.uasset'
+[2024.03.02-04.09.49:639][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 712 ms)
+[2024.03.02-04.09.49:644][653]AssetCheck: New page: Asset Save: BP_Button_Widget
+[2024.03.02-04.09.49:644][653]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3D_Menu/Widget/BP_Button_Widget.BP_Button_Widget
+[2024.03.02-04.11.34:818][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-04.11.34:941][610]LogSavePackage: Moving output files for package: /Game/3D_Menu/Widget/BP_Button_Widget
+[2024.03.02-04.11.34:943][610]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/BP_Button_Widget323957D445E09C648A1804B6E9424E06.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Content/3D_Menu/Widget/BP_Button_Widget.uasset'
+[2024.03.02-04.11.34:953][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 847 ms)
+[2024.03.02-04.11.34:961][610]AssetCheck: New page: Asset Save: BP_Button_Widget
+[2024.03.02-04.11.34:962][610]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3D_Menu/Widget/BP_Button_Widget.BP_Button_Widget
+[2024.03.02-04.12.18:091][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-04.12.18:157][885]LogSavePackage: Moving output files for package: /Game/3D_Menu/Widget/BP_Button_Widget
+[2024.03.02-04.12.18:157][885]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/BP_Button_Widget09A319D340CE621AA19FEDA0207318C5.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Content/3D_Menu/Widget/BP_Button_Widget.uasset'
+[2024.03.02-04.12.18:167][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 922 ms)
+[2024.03.02-04.12.18:173][885]AssetCheck: New page: Asset Save: BP_Button_Widget
+[2024.03.02-04.12.18:173][885]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/3D_Menu/Widget/BP_Button_Widget.BP_Button_Widget
+[2024.03.02-04.12.42:014][715]LogSlate: Took 0.008141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.02-04.13.28:941][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.02-04.13.28:944][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2024.03.02-04.13.28:944][262]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/3D_Menu/Widget/BP_Button_Widget] ([2] browsable assets)...
+[2024.03.02-04.13.28:947][262]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/3D_Menu/Widget/BP_Button_Widget.BP_Button_Widget]
+[2024.03.02-04.13.28:947][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D_Menu/Widget/BP_Button_Widget]
+[2024.03.02-04.13.28:951][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3D_Menu/Widget/BP_Button_Widget_Auto5
+[2024.03.02-04.13.28:951][262]LogSavePackage: Moving '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/BP_Button_Widget_Auto527032ED14BD59E230CADF2826FD96E80.tmp' to '../../../../../../Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Saved/Autosaves/Game/3D_Menu/Widget/BP_Button_Widget_Auto5.uasset'
+[2024.03.02-04.13.28:953][262]LogFileHelpers: Auto-saving content packages took 0.009
