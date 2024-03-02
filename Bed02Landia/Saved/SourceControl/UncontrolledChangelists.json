@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/gitChris/gamegab/Bed02Landia/Content/Cinematiques.uasset",
+				"D:/gitChris/gamegab/Bed02Landia/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/XK/8V110SHPGYJTZ9ZVAK0H4I.uasset",
+				"D:/gitChris/gamegab/Bed02Landia/Content/Animation/NewBlueprint.uasset",
+				"D:/gitChris/gamegab/Bed02Landia/Content/EF_FirstFloor/Maps/FirstFloor.umap",
+				"D:/gitChris/gamegab/Bed02Landia/Content/Cinematique.uasset"
+			]
+		}
+	]
+}
