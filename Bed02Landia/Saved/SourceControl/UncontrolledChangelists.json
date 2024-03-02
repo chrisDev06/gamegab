@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/70/R1J180TJNW9O7TWGTXQXS0.uasset",
+				"C:/Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Content/3D_Menu/Widget/Maps/FirstFloor.umap",
+				"C:/Users/paris/OneDrive/Documents/GitHub/gamegab/Bed02Landia/Content/3D_Menu/Widget/BP_MainMenu_Widget.uasset"
+			]
+		}
+	]
+}
