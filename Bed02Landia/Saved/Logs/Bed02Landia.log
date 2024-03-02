@@ -4581,3 +4581,190 @@ Reference List:
 [2024.03.02-01.50.09:103][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 350 ms (total: 1.67 sec)
 [2024.03.02-01.50.09:108][908]AssetCheck: New page: Asset Save: FirstFloor
 [2024.03.02-01.50.09:108][908]LogContentValidation: Display: Validating /Script/Engine.World /Game/EF_FirstFloor/Maps/FirstFloor.FirstFloor
+[2024.03.02-02.00.08:840][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.03.02-02.00.08:841][775]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/EF_FirstFloor/Maps/FirstFloor' took 0.018
+[2024.03.02-02.00.08:842][775]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/Atlas] ([1] browsable assets)...
+[2024.03.02-02.00.08:842][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/Atlas]
+[2024.03.02-02.00.08:842][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/Atlas" FILE="../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/NPC/Atlas_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.03.02-02.00.08:843][775]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/Atlas_Auto5
+[2024.03.02-02.00.08:843][775]LogSavePackage: Moving '../../../../../gitChris/gamegab/Bed02Landia/Saved/Atlas_Auto58519AD644D1B8492F81DD9BED576684C.tmp' to '../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/NPC/Atlas_Auto5.uasset'
+[2024.03.02-02.00.08:844][775]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/Bottles] ([1] browsable assets)...
+[2024.03.02-02.00.08:844][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/Bottles]
+[2024.03.02-02.00.08:844][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/Bottles" FILE="../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/NPC/Bottles_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.03.02-02.00.08:851][775]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/Bottles_Auto5
+[2024.03.02-02.00.08:851][775]LogSavePackage: Moving '../../../../../gitChris/gamegab/Bed02Landia/Saved/Bottles_Auto56B26AD394D9041392CA0668E5E195C61.tmp' to '../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/NPC/Bottles_Auto5.uasset'
+[2024.03.02-02.00.08:853][775]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/Sprites] ([1] browsable assets)...
+[2024.03.02-02.00.08:853][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/Sprites]
+[2024.03.02-02.00.08:853][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/Sprites" FILE="../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/NPC/Sprites_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.03.02-02.00.08:855][775]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/Sprites_Auto5
+[2024.03.02-02.00.08:855][775]LogSavePackage: Moving '../../../../../gitChris/gamegab/Bed02Landia/Saved/Sprites_Auto5BDFD89A44C5CBE4DFA34959941202A5B.tmp' to '../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/NPC/Sprites_Auto5.uasset'
+[2024.03.02-02.00.08:855][775]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations] ([1] browsable assets)...
+[2024.03.02-02.00.08:855][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations]
+[2024.03.02-02.00.08:855][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations" FILE="../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/Animations_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.03.02-02.00.08:856][775]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations_Auto5
+[2024.03.02-02.00.08:856][775]LogSavePackage: Moving '../../../../../gitChris/gamegab/Bed02Landia/Saved/Animations_Auto5297B65E34845117674C071AAAE1B3A76.tmp' to '../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/Animations_Auto5.uasset'
+[2024.03.02-02.00.08:857][775]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: ================================================
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Total job queries 691, among them cache hits 240 (34.73%)
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Tracking 305 distinct input hashes that result in 201 distinct outputs (65.90%)
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: RAM used: 7,74 MiB of 819,20 MiB budget. Usage: 0.94%
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Shaders Compiled: 305
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Jobs assigned 306, completed 305 (99.67%)
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Average time worker was idle: 64.01 s
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Time job spent in pending queue: average 10.45 s, longest 35.51 s
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 5.44 s
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Job life time (pending + execution): average 11.47 s, max 36.78
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Shader code size: average 43,115 KiB, min 4,359 KiB, max 98,277 KiB
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 76.29 s
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Jobs were issued in 291 batches (only local compilation was used), average 1.05 jobs/batch
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Average processing rate: 4.00 jobs/sec
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Total thread time: 219,93 s
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Total thread preprocess time: 16,582 s
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Percentage time preprocessing: 7.54%
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Effective parallelization: 2.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.70 sec, max 2.82 sec, min 0.58 sec)
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled   22 times, average 1.39 sec, max 4.80 sec, min 0.47 sec)
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   24 times, average 1.28 sec, max 5.32 sec, min 0.51 sec)
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   22 times, average 1.15 sec, max 4.25 sec, min 0.48 sec)
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   24 times, average 1.06 sec, max 4.20 sec, min 0.50 sec)
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 13.94% of total time (compiled   22 times, average 1.39 sec, max 4.80 sec, min 0.47 sec)
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 13.92% of total time (compiled   24 times, average 1.28 sec, max 5.32 sec, min 0.51 sec)
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 11.56% of total time (compiled   24 times, average 1.06 sec, max 4.20 sec, min 0.50 sec)
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 11.46% of total time (compiled   22 times, average 1.15 sec, max 4.25 sec, min 0.48 sec)
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 7.36% of total time (compiled   24 times, average 0.67 sec, max 1.00 sec, min 0.50 sec)
+[2024.03.02-02.29.27:993][376]LogShaderCompilers: Display: ================================================
+[2024.03.02-02.30.56:085][812]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.56:085][812]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.02-02.30.56:465][818]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.56:465][818]LogEditorTransaction: Undo Clicking on Actors
+[2024.03.02-02.30.56:754][820]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.56:754][820]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.02-02.30.56:945][827]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.56:945][827]LogEditorTransaction: Undo Clicking on Actors
+[2024.03.02-02.30.57:145][831]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.57:145][831]LogEditorTransaction: Undo Clicking on Actors
+[2024.03.02-02.30.57:365][834]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.57:365][834]LogEditorTransaction: Undo Clicking on Actors
+[2024.03.02-02.30.57:666][847]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.57:666][847]LogEditorTransaction: Undo Clicking on Actors
+[2024.03.02-02.30.57:927][857]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.57:927][857]LogEditorTransaction: Undo Set Location
+[2024.03.02-02.30.58:177][869]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.58:177][869]LogEditorTransaction: Undo Move Elements
+[2024.03.02-02.30.58:435][882]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.58:435][882]LogEditorTransaction: Undo Move Elements
+[2024.03.02-02.30.58:723][897]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.58:723][897]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.02-02.30.58:987][904]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.58:987][904]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.02-02.30.59:252][912]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.59:252][912]LogEditorTransaction: Undo Set Location
+[2024.03.02-02.30.59:521][926]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.59:521][926]LogEditorTransaction: Undo Set Location
+[2024.03.02-02.30.59:771][937]Cmd: TRANSACTION UNDO
+[2024.03.02-02.30.59:771][937]LogEditorTransaction: Undo Set Rotation
+[2024.03.02-02.31.00:031][944]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.00:031][944]LogEditorTransaction: Undo Set Location
+[2024.03.02-02.31.00:290][950]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.00:291][950]LogEditorTransaction: Undo Set Location
+[2024.03.02-02.31.00:527][961]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.00:527][961]LogEditorTransaction: Undo Set Location
+[2024.03.02-02.31.00:813][976]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.00:813][976]LogEditorTransaction: Undo Set Location
+[2024.03.02-02.31.01:121][992]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.01:121][992]LogEditorTransaction: Undo Set Location
+[2024.03.02-02.31.01:401][  6]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.01:401][  6]LogEditorTransaction: Undo Set Location
+[2024.03.02-02.31.01:674][ 18]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.01:674][ 18]LogEditorTransaction: Undo Set Location
+[2024.03.02-02.31.01:947][ 30]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.01:947][ 30]LogEditorTransaction: Undo Set Location
+[2024.03.02-02.31.02:202][ 43]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.02:202][ 43]LogEditorTransaction: Undo Set Location
+[2024.03.02-02.31.02:461][ 56]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.02:461][ 56]LogEditorTransaction: Undo Set Rotation
+[2024.03.02-02.31.02:732][ 70]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.02:732][ 70]LogEditorTransaction: Undo Set Rotation
+[2024.03.02-02.31.02:974][ 81]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.02:974][ 81]LogEditorTransaction: Undo Set Rotation
+[2024.03.02-02.31.03:282][ 97]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.03:282][ 97]LogEditorTransaction: Undo Set Rotation
+[2024.03.02-02.31.03:720][109]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.03:720][109]LogEditorTransaction: Undo Clicking on Actors
+[2024.03.02-02.31.04:637][147]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.04:637][147]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.02-02.31.05:222][176]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.05:222][176]LogEditorTransaction: Undo Clicking on Actors
+[2024.03.02-02.31.06:038][214]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.06:038][214]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.02-02.31.06:680][242]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.06:680][242]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.02-02.31.08:512][338]Cmd: TRANSACTION UNDO
+[2024.03.02-02.31.08:512][338]LogEditorTransaction: Undo Clicking on Elements
+[2024.03.02-02.33.47:948][137]LogShaderCompilers: Display: ================================================
+[2024.03.02-02.33.47:948][137]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.02-02.33.47:948][137]LogShaderCompilers: Display: Total job queries 693, among them cache hits 240 (34.63%)
+[2024.03.02-02.33.47:948][137]LogShaderCompilers: Display: Tracking 307 distinct input hashes that result in 202 distinct outputs (65.80%)
+[2024.03.02-02.33.47:948][137]LogShaderCompilers: Display: RAM used: 7,80 MiB of 819,20 MiB budget. Usage: 0.95%
+[2024.03.02-02.33.47:948][137]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.02-02.33.47:948][137]LogShaderCompilers: Display: Shaders Compiled: 307
+[2024.03.02-02.33.47:948][137]LogShaderCompilers: Display: Jobs assigned 308, completed 307 (99.68%)
+[2024.03.02-02.33.47:948][137]LogShaderCompilers: Display: Average time worker was idle: 65.36 s
+[2024.03.02-02.33.47:948][137]LogShaderCompilers: Display: Time job spent in pending queue: average 10.38 s, longest 35.51 s
+[2024.03.02-02.33.47:948][137]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 5.44 s
+[2024.03.02-02.33.47:948][137]LogShaderCompilers: Display: Job life time (pending + execution): average 11.40 s, max 36.78
+[2024.03.02-02.33.47:948][137]LogShaderCompilers: Display: Shader code size: average 43,194 KiB, min 4,359 KiB, max 98,277 KiB
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 77.32 s
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display: Jobs were issued in 293 batches (only local compilation was used), average 1.05 jobs/batch
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display: Average processing rate: 3.97 jobs/sec
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display: Total thread time: 221,108 s
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display: Total thread preprocess time: 16,697 s
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display: Percentage time preprocessing: 7.55%
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display: Effective parallelization: 2.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.70 sec, max 2.82 sec, min 0.58 sec)
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled   22 times, average 1.39 sec, max 4.80 sec, min 0.47 sec)
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   24 times, average 1.28 sec, max 5.32 sec, min 0.51 sec)
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   22 times, average 1.15 sec, max 4.25 sec, min 0.48 sec)
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   24 times, average 1.06 sec, max 4.20 sec, min 0.50 sec)
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 13.87% of total time (compiled   22 times, average 1.39 sec, max 4.80 sec, min 0.47 sec)
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 13.85% of total time (compiled   24 times, average 1.28 sec, max 5.32 sec, min 0.51 sec)
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 11.50% of total time (compiled   24 times, average 1.06 sec, max 4.20 sec, min 0.50 sec)
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 11.40% of total time (compiled   22 times, average 1.15 sec, max 4.25 sec, min 0.48 sec)
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 7.32% of total time (compiled   24 times, average 0.67 sec, max 1.00 sec, min 0.50 sec)
+[2024.03.02-02.33.47:949][137]LogShaderCompilers: Display: ================================================
+[2024.03.02-02.36.54:901][212]LogDerivedDataCache: C:/Users/christopher/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.287 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6141 files in 7901 folders with total size 225 MiB.
+[2024.03.02-02.37.34:058][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.02-02.37.34:296][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/EF_FirstFloor/Maps/FirstFloor_Auto6
+[2024.03.02-02.37.34:296][375]LogSavePackage: Moving '../../../../../gitChris/gamegab/Bed02Landia/Saved/FirstFloor_Auto6F55E564C4ECDEED0BE7A7A8BB676ACC0.tmp' to '../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/EF_FirstFloor/Maps/FirstFloor_Auto6.umap'
+[2024.03.02-02.37.34:298][375]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/EF_FirstFloor/Maps/FirstFloor_Auto6.umap is in the /Temp path, will not scan.
+[2024.03.02-02.37.34:298][375]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/EF_FirstFloor/Maps/FirstFloor_Auto6 is in the /Temp path, will not scan.
+[2024.03.02-02.37.34:298][375]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/EF_FirstFloor/Maps/FirstFloor_Auto6 is in the /Temp path, will not scan.
+[2024.03.02-02.37.34:298][375]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/EF_FirstFloor/Maps/FirstFloor' took 0.330
+[2024.03.02-02.37.34:299][375]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.330
+[2024.03.02-02.37.34:299][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/Atlas] ([1] browsable assets)...
+[2024.03.02-02.37.34:299][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/Atlas]
+[2024.03.02-02.37.34:299][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/Atlas" FILE="../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/NPC/Atlas_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.03.02-02.37.34:301][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/Atlas_Auto6
+[2024.03.02-02.37.34:301][375]LogSavePackage: Moving '../../../../../gitChris/gamegab/Bed02Landia/Saved/Atlas_Auto65D561B5A4512887292BFE083ED8530B2.tmp' to '../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/NPC/Atlas_Auto6.uasset'
+[2024.03.02-02.37.34:302][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/Bottles] ([1] browsable assets)...
+[2024.03.02-02.37.34:302][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/Bottles]
+[2024.03.02-02.37.34:302][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/Bottles" FILE="../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/NPC/Bottles_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.03.02-02.37.34:313][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/Bottles_Auto6
+[2024.03.02-02.37.34:313][375]LogSavePackage: Moving '../../../../../gitChris/gamegab/Bed02Landia/Saved/Bottles_Auto6F1DA8B484C8F779A3BFF7A8C3ADD3606.tmp' to '../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/NPC/Bottles_Auto6.uasset'
+[2024.03.02-02.37.34:314][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/Sprites] ([1] browsable assets)...
+[2024.03.02-02.37.34:314][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/Sprites]
+[2024.03.02-02.37.34:314][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/Sprites" FILE="../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/NPC/Sprites_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.03.02-02.37.34:448][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/Sprites_Auto6
+[2024.03.02-02.37.34:448][375]LogSavePackage: Moving '../../../../../gitChris/gamegab/Bed02Landia/Saved/Sprites_Auto69AB06E8A42AAEC9199A00B9CD0783289.tmp' to '../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/NPC/Sprites_Auto6.uasset'
+[2024.03.02-02.37.34:450][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations] ([1] browsable assets)...
+[2024.03.02-02.37.34:450][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations]
+[2024.03.02-02.37.34:450][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations" FILE="../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/Animations_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.03.02-02.37.34:455][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations_Auto6
+[2024.03.02-02.37.34:455][375]LogSavePackage: Moving '../../../../../gitChris/gamegab/Bed02Landia/Saved/Animations_Auto6E281D801458BEDB7A4B06B82AE910F54.tmp' to '../../../../../gitChris/gamegab/Bed02Landia/Saved/Autosaves/Game/Animations_Auto6.uasset'
+[2024.03.02-02.37.34:457][375]LogFileHelpers: Auto-saving content packages took 0.158
